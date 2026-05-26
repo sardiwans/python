@@ -1,1 +1,2 @@
 Ini adalah file python pertama saya sejak 1 tahun lalu
+kemudian saya akan konsisten membuat program untuk beberapa bulan kedepan
